@@ -98,3 +98,14 @@ Follow these steps to set up and run the project locally.
     yarn start
     ```
     This will open the application in your browser at `http://localhost:3000`.
+
+
+If everything goes, well, you should be able to a Sign-On Page like this:
+
+
+![image](https://github.com/user-attachments/assets/f28d0a64-3585-4318-834d-0376978651d6)
+
+
+and then post login, you should be able to see:
+
+![image](https://github.com/user-attachments/assets/9c0ea446-17e1-47a5-a5ba-1f6f4122231f)
