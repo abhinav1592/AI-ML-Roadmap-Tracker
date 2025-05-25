@@ -1,7 +1,6 @@
 # AI-ML-Roadmap-Tracker
 
-[Interested in why I created this ? Click here to read my blog.]([url](https://abhinavspace.com/2025/05/25/nuances-of-building-an-ai-ml-roadmap-tracker-using-google-geminis-canvas/))
-
+[Interested in why I created this? Click here to read my blog.](https://abhinavspace.com/2025/05/25/nuances-of-building-an-ai-ml-roadmap-tracker-using-google-geminis-canvas/)
 
 ## Getting Started
 
