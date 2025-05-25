@@ -56,10 +56,14 @@ Follow these steps to set up and run the project locally.
 
 ### Project Installation
 
-1.  **Clone the repository:**
+1.  **Clone the repository or create using your own:**
     ```bash
     git clone [https://github.com/your-username/ai-ml-roadmap-tracker.git](https://github.com/your-username/ai-ml-roadmap-tracker.git)
     cd ai-ml-roadmap-tracker
+
+    or
+    npm create-react-app ai-ml-roadmap-tracker
+    and then copy the source code from above directories
     ```
     *(Replace `https://github.com/your-username/ai-ml-roadmap-tracker.git` with the actual URL of your GitHub repository)*
 
